@@ -8,7 +8,7 @@ import './assets/index.css'
 import VueRouter from 'vue-router'
 
 //引入英雄列表组件在这里匹配路由
-import HeroList from './views/heroes/HeroList'
+import HeroList from './views/heroes/HeroList.vue'
 
 //vue-router注册到vue中才能使用
 //在全局script标签中不用写这一步(自动完成)

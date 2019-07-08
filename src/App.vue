@@ -19,14 +19,13 @@
 import AppHeader from './components/AppHeader';
 import AppSilder from './components/AppSilder';
 
-
 export default {
   name: "app",
   //注册组件
   components: {
     AppHeader,
     AppSilder,
-    HeroList
+    
   }
 };
 </script>
