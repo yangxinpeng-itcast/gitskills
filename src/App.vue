@@ -24,9 +24,13 @@ export default {
   //注册组件
   components: {
     AppHeader,
+    // AppSilder, 
     AppSilder,
     
-  }
+  },
+  methods: {
+   
+  },
 };
 </script>
 
